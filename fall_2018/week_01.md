@@ -1,21 +1,16 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+> We set up a meeting last weekend and discussed the overall structure and LVP of our project. For me personally,
+I kept on learning Javascript because I am in the Front end team
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> We Front End Team is waiting for out leader to push the backbone framework for front end out so that we can begin working
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> I still need to learn CSS so that I can work better
 
 ## Notes
 
