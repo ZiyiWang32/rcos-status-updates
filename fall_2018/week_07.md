@@ -1,5 +1,5 @@
 ## Last Week's Accomplishments
-> Because of the Thanksgiving, I didn't get much things done last week.
+> Because of the Thanksgiving, I didn't get much things done last week.(I went to Florida for the Disney world there, the firework show was fantastic but there were just so many people :) )
 
 ## This Week's Plan
 
